@@ -2,7 +2,7 @@
 title: Writing Prompts
 ---
 
-## [[Podcast - Cheryl Strayed - Jordan Harbinger Show]]
+## [[Cheryl Strayed]]
 ### Explain your key chain
 ### Where is my wounds
 ### My "Woe is me" story
