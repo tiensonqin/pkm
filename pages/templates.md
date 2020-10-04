@@ -21,6 +21,9 @@ title: Templates
 ### **Summary**
 ### **Highlights**
 ## **Note**:
+:PROPERTIES:
+:template: Note
+:END:
 ### **Tags**: #Note
 ## **Video**
 :PROPERTIES:
