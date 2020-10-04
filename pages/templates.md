@@ -46,3 +46,5 @@ title: Templates
 :END:
 ### **Tags**: #Documentary
 ### **URL**:
+## **Note**:
+### **Tags**: #Note
