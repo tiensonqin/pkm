@@ -1,5 +1,5 @@
 ---
-title: David Allen - Getting Things Done
+title: Book - Getting Things Done
 ---
 
 ## **Book**
