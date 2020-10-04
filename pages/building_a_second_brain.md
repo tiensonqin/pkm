@@ -2,7 +2,8 @@
 title: Building A Second Brain
 ---
 
-## - Creativity is borrowed - all about remixing ideas from other people into new ideas
+## #Video
+## Creativity is borrowed - all about remixing ideas from other people into new ideas
 - Brains are for having ideas, not storing - Capture ideas as soon as possible
 - Idea recycling - Ideas are not single use, keep track of what we're creating and ideas for projects.
 - Projects over Categories - don't categorise ideas, associate notes and ideas to a project.
