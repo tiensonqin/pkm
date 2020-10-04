@@ -27,3 +27,13 @@ title: Templates
 ### **Tags**: #Video
 ### **Creator**:
 ### **URL**:
+## Article
+### **Tags**: #Article
+### **URL**:
+## Podcast
+### **Tags**: #Podcast
+### **Show**:
+### **URL**:
+## **Documentary**:
+### **Tags**: #Documentary
+### **URL**:
