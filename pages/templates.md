@@ -28,9 +28,15 @@ title: Templates
 ### **Creator**:
 ### **URL**:
 ## **Article**
+:PROPERTIES:
+:template: Article
+:END:
 ### **Tags**: #Article
 ### **URL**:
 ## **Podcast**
+:PROPERTIES:
+:template: Podcast
+:END:
 ### **Tags**: #Podcast
 ### **Show**:
 ### **URL**:
