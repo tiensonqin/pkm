@@ -20,6 +20,8 @@ title: Templates
 ### **Goodreads URL**:
 ### **Summary**
 ### **Highlights**
+## **Note**:
+### **Tags**: #Note
 ## **Video**
 :PROPERTIES:
 :template: Video
@@ -46,5 +48,3 @@ title: Templates
 :END:
 ### **Tags**: #Documentary
 ### **URL**:
-## **Note**:
-### **Tags**: #Note
