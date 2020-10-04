@@ -11,3 +11,11 @@ title: Templates
 ### **Tasks**
 #### TODO Update Exist.io
 #### TODO Complete Daily Review in Nirvana
+## **Book**
+:PROPERTIES:
+:template: Book
+:END:
+### Author:
+### Goodreads URL:
+### Summary
+### Highlights
