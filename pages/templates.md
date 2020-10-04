@@ -43,6 +43,7 @@ title: Templates
 :END:
 ### **Tags**: #Article
 ### **URL**:
+### **Read**:
 ## **Podcast**
 :PROPERTIES:
 :template: Podcast
