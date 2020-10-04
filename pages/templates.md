@@ -11,7 +11,7 @@ title: Templates
 ### **Tasks**
 #### TODO Update Exist.io
 #### TODO Complete Daily Review in Nirvana
-## **Book**
+## **#Book**
 :PROPERTIES:
 :template: Book
 :END:
