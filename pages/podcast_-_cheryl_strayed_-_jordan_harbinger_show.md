@@ -2,5 +2,9 @@
 title: Podcast - Cheryl Strayed - Jordan Harbinger Show
 ---
 
-## ### **URL**: https://www.jordanharbinger.com/cheryl-strayed-creativity-meltdowns-and-leaving-it-all-behind/
-### TODO **Listened**:
+## **Podcast**
+### **Tags**: #Podcast
+### **Show**: [[Jordan Harbinger Show]]
+### **URL**: https://www.jordanharbinger.com/cheryl-strayed-creativity-meltdowns-and-leaving-it-all-behind/
+### **Listened**:
+## [[Writing Prompts]]
