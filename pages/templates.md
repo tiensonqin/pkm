@@ -2,7 +2,7 @@
 title: Templates
 ---
 
-## Morning Tasks
+## **Morning Tasks**
 :PROPERTIES:
 :template: Morning Tasks
 :END:
