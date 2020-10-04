@@ -2,6 +2,7 @@
 title: PARA Doesn't Work
 ---
 
+## #Note
 ## The idea of holding notes within Areas/Projects/Resources doesn't work for the flexible nature of interlinking ideas, this is why ‣  is so popular
 - Resources, what are they?
     - Notes on a article/video/podcast?
