@@ -12,4 +12,3 @@ title: Video - How I Organise My Life with Roam
 ## "Evergreen Notes" - the idea of notes that consolidate knowledge into a single quick reference.
 ## "Morning Pages" / Daily Template
 ### Creative exercise to get your mind working and thinking
-###
