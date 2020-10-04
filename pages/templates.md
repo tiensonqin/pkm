@@ -18,6 +18,9 @@ title: Templates
 ### **Tags**: #Book
 ### **Author**:
 ### **Goodreads URL**:
+### **Status**: #ToRead
+### **Started**:
+### **Finished**:
 ### **Summary**
 ### **Highlights**
 ## **Note**:
