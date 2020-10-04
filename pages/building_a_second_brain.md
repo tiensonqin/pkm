@@ -1,8 +1,11 @@
 ---
-title: Building A Second Brain
+title: Video - Building A Second Brain
 ---
 
-## #Video
+## **Video**
+### **Tags**: #Video
+### **Creator**: [[Ali Abadaal]]
+### **URL**:  https://www.youtube.com/watch?v=OP3dA2GcAh8
 ## Creativity is borrowed - all about remixing ideas from other people into new ideas
 - Brains are for having ideas, not storing - Capture ideas as soon as possible
 - Idea recycling - Ideas are not single use, keep track of what we're creating and ideas for projects.
