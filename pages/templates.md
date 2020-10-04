@@ -28,6 +28,7 @@ title: Templates
 :template: Note
 :END:
 ### **Tags**: #Note
+### **Created**:
 ## **Video**
 :PROPERTIES:
 :template: Video
@@ -35,6 +36,7 @@ title: Templates
 ### **Tags**: #Video
 ### **Creator**:
 ### **URL**:
+### **Watched**:
 ## **Article**
 :PROPERTIES:
 :template: Article
