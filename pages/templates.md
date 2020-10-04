@@ -41,5 +41,8 @@ title: Templates
 ### **Show**:
 ### **URL**:
 ## **Documentary**:
+:PROPERTIES:
+:template: Documentary
+:END:
 ### **Tags**: #Documentary
 ### **URL**:
