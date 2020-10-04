@@ -27,10 +27,10 @@ title: Templates
 ### **Tags**: #Video
 ### **Creator**:
 ### **URL**:
-## Article
+## **Article**
 ### **Tags**: #Article
 ### **URL**:
-## Podcast
+## **Podcast**
 ### **Tags**: #Podcast
 ### **Show**:
 ### **URL**:
