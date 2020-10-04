@@ -20,3 +20,10 @@ title: Templates
 ### **Goodreads URL**:
 ### **Summary**
 ### **Highlights**
+## **Video**
+:PROPERTIES:
+:template: Video
+:END:
+### **Tags**: #Video
+### **Creator**:
+### **URL**:
