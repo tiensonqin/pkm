@@ -2,7 +2,9 @@
 title: Packing List
 ---
 
-## #Travel
+## **Note**:
+### **Tags**: #Note #Travel 
+### **Created**: [[Oct 4th, 2020]]
 ## Suitcase
 ### Clothing
 
